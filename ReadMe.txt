@@ -97,5 +97,9 @@ Elpidio Quirino
 4: http://www.officialgazette.gov.ph/1952/01/28/elpidio-quirino-fourth-state-of-the-nation-address-january-28-1952/
 5: http://www.officialgazette.gov.ph/1953/01/26/elpidio-quirino-fifth-state-of-the-nation-address-january-26-1953/
 
+Manuel Roxas
+1: http://www.officialgazette.gov.ph/1946/06/12/manuel-roxas-state-of-the-nation-address-june-12-1946/
+2: http://www.officialgazette.gov.ph/1947/01/27/state-of-the-nation-address-of-president-roxas-january-27-1947/
+3: http://www.officialgazette.gov.ph/1948/01/26/manuel-roxas-the-nation-on-the-road-to-prosperity-third-state-of-the-nation-address-january-26-1948/
 
 
