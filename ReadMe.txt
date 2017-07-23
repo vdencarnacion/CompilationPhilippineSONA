@@ -84,5 +84,12 @@ Carlos P Garcia
 3: http://www.officialgazette.gov.ph/1960/01/25/carlos-p-garcia-third-state-of-the-nation-address-january-25-1960/
 4: http://www.officialgazette.gov.ph/1961/01/23/carlos-p-garcia-fourth-state-of-the-nation-address-january-23-1961/
 
+Ramon Magsaysay
+1: http://www.officialgazette.gov.ph/1954/01/25/ramon-magsaysay-first-state-of-the-nation-address-january-25-1954/
+2: http://www.officialgazette.gov.ph/1955/01/24/ramon-magsaysay-second-state-of-the-nation-address-january-24-1955/
+3: http://www.officialgazette.gov.ph/1956/01/23/ramon-magsaysay-third-state-of-the-nation-address-january-23-1956/
+4: http://www.officialgazette.gov.ph/1957/01/28/ramon-magsaysay-fourth-state-of-the-nation-address-january-28-1957/
+
+
 
 
