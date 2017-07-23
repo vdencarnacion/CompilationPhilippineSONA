@@ -90,6 +90,12 @@ Ramon Magsaysay
 3: http://www.officialgazette.gov.ph/1956/01/23/ramon-magsaysay-third-state-of-the-nation-address-january-23-1956/
 4: http://www.officialgazette.gov.ph/1957/01/28/ramon-magsaysay-fourth-state-of-the-nation-address-january-28-1957/
 
+Elpidio Quirino
+1: http://www.officialgazette.gov.ph/1949/01/24/state-of-the-nation-message-of-president-quirino-to-the-joint-session-of-the-congress-of-the-philippines/
+2: http://www.officialgazette.gov.ph/1950/01/23/elpidio-quirino-second-state-of-the-nation-address-january-23-1950/
+3: http://www.officialgazette.gov.ph/1951/01/22/elpidio-quirino-third-state-of-the-nation-address-january-22-1951/
+4: http://www.officialgazette.gov.ph/1952/01/28/elpidio-quirino-fourth-state-of-the-nation-address-january-28-1952/
+5: http://www.officialgazette.gov.ph/1953/01/26/elpidio-quirino-fifth-state-of-the-nation-address-january-26-1953/
 
 
 
