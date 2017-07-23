@@ -78,4 +78,11 @@ Diosdado Macapagal
 3: http://www.officialgazette.gov.ph/1964/01/27/diosdado-macapagal-third-state-of-the-nation-address-january-27-1964/
 4: http://www.officialgazette.gov.ph/1965/01/25/diosdado-macapagal-fourth-state-of-the-nation-address-january-25-1965/
 
+Carlos P Garcia
+1: http://www.officialgazette.gov.ph/1958/01/27/message-of-president-carlos-p-garcia-on-his-first-state-of-the-nation-address/
+2: http://www.officialgazette.gov.ph/1959/01/26/carlos-p-garcia-second-state-of-the-nation-address-january-26-1959/
+3: http://www.officialgazette.gov.ph/1960/01/25/carlos-p-garcia-third-state-of-the-nation-address-january-25-1960/
+4: http://www.officialgazette.gov.ph/1961/01/23/carlos-p-garcia-fourth-state-of-the-nation-address-january-23-1961/
+
+
 
