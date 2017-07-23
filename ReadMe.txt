@@ -1,3 +1,5 @@
+Source: http://www.officialgazette.gov.ph/section/historical-papers-documents/speeches/state-of-the-nation-address/
+
 Beninog S Aquino III
 1_eng: http://www.officialgazette.gov.ph/2010/07/26/state-of-the-nation-address-2010-en/
 1_tag: http://www.officialgazette.gov.ph/2010/07/26/state-of-the-nation-address-2010/
@@ -49,10 +51,23 @@ Corazon C Aquino
 5: http://www.officialgazette.gov.ph/1991/07/22/corazon-c-aquino-fifth-state-of-the-nation-address-july-22-1991/
 
 Ferdinand E Marcos
-14: 
-15: 
-16: 
-17: 
-18: 
-19: 
+1: http://www.officialgazette.gov.ph/1966/01/24/ferdinand-e-marcos-first-state-of-the-nation-address-january-24-1966/
+2: http://www.officialgazette.gov.ph/1967/01/23/ferdinand-e-marcos-second-state-of-the-nation-address-january-23-1967/
+3: http://www.officialgazette.gov.ph/1968/01/22/ferdinand-e-marcos-third-state-of-the-nation-address-january-22-1968/
+4: http://www.officialgazette.gov.ph/1969/01/27/ferdinand-e-marcos-fourth-state-of-the-nation-address-january-27-1969/
+5: http://www.officialgazette.gov.ph/1970/01/26/ferdinand-e-marcos-fifth-state-of-the-nation-address-january-26-1970/
+6: http://www.officialgazette.gov.ph/1971/01/25/ferdinand-e-marcos-sixth-state-of-the-nation-address-january-25-1971-2/
+7: http://www.officialgazette.gov.ph/1972/01/24/ferdinand-e-marcos-seventh-state-of-the-nation-address-january-24-1972/
+8: http://www.officialgazette.gov.ph/1973/09/21/ferdinand-e-marcos-eighth-state-of-the-nation-address-september-21-1973/
+9: http://www.officialgazette.gov.ph/1974/09/21/ferdinand-e-marcos-ninth-state-of-the-nation-address-september-21-1974/
+10: http://www.officialgazette.gov.ph/1975/09/19/ferdinand-e-marcos-tenth-state-of-the-nation-address-september-19-1975/
+11: http://www.officialgazette.gov.ph/1976/09/21/ferdinand-e-marcos-eleventh-state-of-the-nation-address-september-21-1976/
+12: http://www.officialgazette.gov.ph/1977/09/21/ferdinand-e-marcos-twelfth-state-of-the-nation-address-september-21-1977/
+13: http://www.officialgazette.gov.ph/1978/06/12/ferdinand-e-marcos-thirteenth-state-of-the-nation-address-june-12-1978/
+14: http://www.officialgazette.gov.ph/1979/07/23/ferdinand-e-marcos-fourteenth-state-of-the-nation-address-july-23-1979/
+15: http://www.officialgazette.gov.ph/1980/07/28/ferdinand-e-marcos-fifteenth-state-of-the-nation-address-july-28-1980/
+16: http://www.officialgazette.gov.ph/1981/07/27/ferdinand-e-marcos-sixteenth-state-of-the-nation-address-july-27-1981/
+17: http://www.officialgazette.gov.ph/1982/07/26/ferdinand-e-marcos-seventeenth-state-of-the-nation-adress-july-26-1982/
+18: http://www.officialgazette.gov.ph/1983/01/17/ferdinand-e-marcos-eighteenth-state-of-the-nation-address-january-17-1983/
+19: http://www.officialgazette.gov.ph/1984/07/23/ferdinand-e-marcos-nineteenth-state-of-the-nation-address-july-23-1984/
 20: http://www.officialgazette.gov.ph/1985/07/22/ferdinand-e-marcos-twentieth-state-of-the-nation-address-july-22-1985/
