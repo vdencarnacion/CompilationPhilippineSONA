@@ -1,4 +1,19 @@
-Source: http://www.officialgazette.gov.ph/section/historical-papers-documents/speeches/state-of-the-nation-address/
+Hi! I've decided to copy-paste all Philippine State of the Nation Address (SONA) from the Official Philippine Gazette page* to help anyone who plans to use it for any kind of data processing.
+
+Please note that all SONA are transcribed in English unless otherwise stated.
+Subscripts are appended to those with different languages.
+"eng" stands for English, "tag" stands for Tagalog (Filipino), and "bis" stands for Bisaya.
+
+----------------------------------------------------
+SOURCES
+----------------------------------------------------
+
+*Main Source: http://www.officialgazette.gov.ph/section/historical-papers-documents/speeches/state-of-the-nation-address/
+
+Rodrigo Roa Duterte
+1_eng: http://www.officialgazette.gov.ph/2016/07/26/the-2016-state-of-the-nation-address/
+1_tag: http://www.officialgazette.gov.ph/2016/08/15/the-2016-state-of-the-nation-address-filipino/
+1_bis: http://www.officialgazette.gov.ph/2016/08/17/the-2016-state-of-the-nation-address-visayan/
 
 Beninog S Aquino III
 1_eng: http://www.officialgazette.gov.ph/2010/07/26/state-of-the-nation-address-2010-en/
