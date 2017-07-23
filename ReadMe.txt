@@ -71,3 +71,11 @@ Ferdinand E Marcos
 18: http://www.officialgazette.gov.ph/1983/01/17/ferdinand-e-marcos-eighteenth-state-of-the-nation-address-january-17-1983/
 19: http://www.officialgazette.gov.ph/1984/07/23/ferdinand-e-marcos-nineteenth-state-of-the-nation-address-july-23-1984/
 20: http://www.officialgazette.gov.ph/1985/07/22/ferdinand-e-marcos-twentieth-state-of-the-nation-address-july-22-1985/
+
+Diosdado Macapagal
+1: http://www.officialgazette.gov.ph/1962/01/22/diosdado-macapagal-first-state-of-the-nation-address-january-22-1962/
+2: http://www.officialgazette.gov.ph/1963/01/28/diosdado-macapagal-second-state-of-the-nation-address-january-28-1963/
+3: http://www.officialgazette.gov.ph/1964/01/27/diosdado-macapagal-third-state-of-the-nation-address-january-27-1964/
+4: http://www.officialgazette.gov.ph/1965/01/25/diosdado-macapagal-fourth-state-of-the-nation-address-january-25-1965/
+
+
