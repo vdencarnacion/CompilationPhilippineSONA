@@ -102,4 +102,5 @@ Manuel Roxas
 2: http://www.officialgazette.gov.ph/1947/01/27/state-of-the-nation-address-of-president-roxas-january-27-1947/
 3: http://www.officialgazette.gov.ph/1948/01/26/manuel-roxas-the-nation-on-the-road-to-prosperity-third-state-of-the-nation-address-january-26-1948/
 
-
+Sergio Osmeña
+1: http://www.officialgazette.gov.ph/1945/06/09/sergio-osmena-state-of-the-nation-address-june-9-1945/
