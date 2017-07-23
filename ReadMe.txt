@@ -104,3 +104,13 @@ Manuel Roxas
 
 Sergio Osmeña
 1: http://www.officialgazette.gov.ph/1945/06/09/sergio-osmena-state-of-the-nation-address-june-9-1945/
+
+Manuel Quezon
+1: http://www.officialgazette.gov.ph/1935/11/25/manuel-l-quezon-first-state-of-the-nation-address-november-25-1935/
+2: http://www.officialgazette.gov.ph/1936/06/16/manuel-l-quezon-second-state-of-the-nation-address-june-16-1936/
+3: http://www.officialgazette.gov.ph/1937/10/18/manuel-l-quezon-third-state-of-the-nation-address-october-18-1937/
+4: http://www.officialgazette.gov.ph/1938/01/24/manuel-l-quezon-fourth-state-of-the-nation-address-january-24-1938/
+5: http://www.officialgazette.gov.ph/1939/01/24/manuel-l-quezon-fifth-state-of-the-nation-address-january-24-1939/
+6: http://www.officialgazette.gov.ph/1940/01/22/manuel-l-quezon-sixth-state-of-the-nation-address-january-22-1940/
+7: http://www.officialgazette.gov.ph/1941/01/31/manuel-l-quezon-seventh-state-of-the-nation-address-january-31-1941/
+
