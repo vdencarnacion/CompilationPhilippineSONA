@@ -129,3 +129,4 @@ Manuel Quezon
 6: http://www.officialgazette.gov.ph/1940/01/22/manuel-l-quezon-sixth-state-of-the-nation-address-january-22-1940/
 7: http://www.officialgazette.gov.ph/1941/01/31/manuel-l-quezon-seventh-state-of-the-nation-address-january-31-1941/
 
+Thanks!
